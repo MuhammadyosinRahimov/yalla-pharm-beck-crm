@@ -1,5 +1,21 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\products\96978309-27fb-4d0f-b534-f1597cebe89e_f34ee469-a7e7-456e-9499-775d5474732e.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>YallaPharm.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/YallaPharm.API</BasePath>
+      <RelativePath>images/products/96978309-27fb-4d0f-b534-f1597cebe89e_f34ee469-a7e7-456e-9499-775d5474732e.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\products\96978309-27fb-4d0f-b534-f1597cebe89e_f34ee469-a7e7-456e-9499-775d5474732e.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\products\f405cdc4-54ce-446f-b7ea-4387a89cb2ef_57ef38d4-45fd-4464-9229-0be1b4f90656.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>YallaPharm.API</SourceId>

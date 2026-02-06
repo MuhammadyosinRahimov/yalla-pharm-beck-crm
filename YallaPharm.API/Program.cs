@@ -7,6 +7,7 @@
 
 using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using Serilog;
@@ -200,18 +201,25 @@ builder.Services.AddScoped<DbSeeder>();
 var app = builder.Build();
 
 // ==== ИНИЦИАЛИЗАЦИЯ БАЗЫ ДАННЫХ ====
-// Выполняем seed данных при запуске
+// Применяем миграции и выполняем seed данных при запуске
 using (var scope = app.Services.CreateScope())
 {
     try
     {
+        // Автоматическое применение миграций
+        var db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+        Log.Information("Applying database migrations...");
+        db.Database.Migrate();
+        Log.Information("Database migrations applied successfully");
+
+        // Выполняем seed данных
         var seeder = scope.ServiceProvider.GetRequiredService<DbSeeder>();
         await seeder.SeedAsync();
         Log.Information("Database seeding completed successfully");
     }
     catch (Exception ex)
     {
-        Log.Error(ex, "Error occurred during database seeding");
+        Log.Error(ex, "Error occurred during database initialization");
         // Не прерываем запуск - приложение может работать без seed данных
     }
 }

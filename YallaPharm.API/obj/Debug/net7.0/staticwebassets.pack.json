@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\Mardin it\\Desktop\\yalla.pharm.crm\\src\\YallaPharm.API\\wwwroot\\images\\products\\96978309-27fb-4d0f-b534-f1597cebe89e_f34ee469-a7e7-456e-9499-775d5474732e.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\96978309-27fb-4d0f-b534-f1597cebe89e_f34ee469-a7e7-456e-9499-775d5474732e.jpg"
+    },
+    {
       "Id": "C:\\Users\\Mardin it\\Desktop\\yalla.pharm.crm\\src\\YallaPharm.API\\wwwroot\\images\\products\\f405cdc4-54ce-446f-b7ea-4387a89cb2ef_57ef38d4-45fd-4464-9229-0be1b4f90656.jpg",
       "PackagePath": "staticwebassets\\images\\products\\f405cdc4-54ce-446f-b7ea-4387a89cb2ef_57ef38d4-45fd-4464-9229-0be1b4f90656.jpg"
     },
