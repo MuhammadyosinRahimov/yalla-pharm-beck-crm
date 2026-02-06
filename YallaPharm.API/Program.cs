@@ -180,7 +180,7 @@ builder.Services.AddCors(options =>
         policy.WithOrigins(
                 "http://localhost:3000",    // Next.js development
                 "http://localhost:5173",    // Vite development
-                "https://crm.yalla.tj"      // Production
+                "https://yalla-pharm-crm.vercel.app"      // Production
             )
             .AllowAnyMethod()               // Разрешаем все HTTP методы
             .AllowAnyHeader()               // Разрешаем все заголовки
