@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mardin it\\Desktop\\yalla.pharm.crm\\src\\YallaPharm.API\\wwwroot\\images\\products\\f405cdc4-54ce-446f-b7ea-4387a89cb2ef_57ef38d4-45fd-4464-9229-0be1b4f90656.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\f405cdc4-54ce-446f-b7ea-4387a89cb2ef_57ef38d4-45fd-4464-9229-0be1b4f90656.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.YallaPharm.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.YallaPharm.API.props",
+      "PackagePath": "build\\YallaPharm.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.YallaPharm.API.props",
+      "PackagePath": "buildMultiTargeting\\YallaPharm.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.YallaPharm.API.props",
+      "PackagePath": "buildTransitive\\YallaPharm.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

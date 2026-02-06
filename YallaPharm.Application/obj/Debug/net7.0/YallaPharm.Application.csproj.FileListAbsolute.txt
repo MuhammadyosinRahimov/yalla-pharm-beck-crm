@@ -1,0 +1,17 @@
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Application\bin\Debug\net7.0\YallaPharm.Application.deps.json
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Application\bin\Debug\net7.0\YallaPharm.Application.dll
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Application\bin\Debug\net7.0\YallaPharm.Application.pdb
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Application\bin\Debug\net7.0\YallaPharm.Domain.dll
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Application\bin\Debug\net7.0\YallaPharm.Infrastructure.dll
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Application\bin\Debug\net7.0\YallaPharm.Domain.pdb
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Application\bin\Debug\net7.0\YallaPharm.Infrastructure.pdb
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Application\obj\Debug\net7.0\YallaPharm.Application.csproj.AssemblyReference.cache
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Application\obj\Debug\net7.0\YallaPharm.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Application\obj\Debug\net7.0\YallaPharm.Application.AssemblyInfoInputs.cache
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Application\obj\Debug\net7.0\YallaPharm.Application.AssemblyInfo.cs
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Application\obj\Debug\net7.0\YallaPharm.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Application\obj\Debug\net7.0\YallaPharm.Application.csproj.CopyComplete
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Application\obj\Debug\net7.0\YallaPharm.Application.dll
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Application\obj\Debug\net7.0\refint\YallaPharm.Application.dll
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Application\obj\Debug\net7.0\YallaPharm.Application.pdb
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Application\obj\Debug\net7.0\ref\YallaPharm.Application.dll

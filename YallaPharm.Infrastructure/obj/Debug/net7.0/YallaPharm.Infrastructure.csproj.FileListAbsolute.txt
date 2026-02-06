@@ -1,0 +1,17 @@
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Infrastructure\bin\Debug\net7.0\YallaPharm.Infrastructure.deps.json
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Infrastructure\bin\Debug\net7.0\YallaPharm.Infrastructure.runtimeconfig.json
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Infrastructure\bin\Debug\net7.0\YallaPharm.Infrastructure.dll
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Infrastructure\bin\Debug\net7.0\YallaPharm.Infrastructure.pdb
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Infrastructure\bin\Debug\net7.0\YallaPharm.Domain.dll
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Infrastructure\bin\Debug\net7.0\YallaPharm.Domain.pdb
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Infrastructure\obj\Debug\net7.0\YallaPharm.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Infrastructure\obj\Debug\net7.0\YallaPharm.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Infrastructure\obj\Debug\net7.0\YallaPharm.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Infrastructure\obj\Debug\net7.0\YallaPharm.Infrastructure.AssemblyInfo.cs
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Infrastructure\obj\Debug\net7.0\YallaPharm.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Infrastructure\obj\Debug\net7.0\YallaPharm.Infrastructure.csproj.CopyComplete
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Infrastructure\obj\Debug\net7.0\YallaPharm.Infrastructure.dll
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Infrastructure\obj\Debug\net7.0\refint\YallaPharm.Infrastructure.dll
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Infrastructure\obj\Debug\net7.0\YallaPharm.Infrastructure.pdb
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Infrastructure\obj\Debug\net7.0\YallaPharm.Infrastructure.genruntimeconfig.cache
+C:\Users\Mardin it\Desktop\yalla.pharm.crm\src\YallaPharm.Infrastructure\obj\Debug\net7.0\ref\YallaPharm.Infrastructure.dll

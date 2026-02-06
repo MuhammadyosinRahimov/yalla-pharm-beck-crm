@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YallaPharm.Domain", "YallaPharm.Domain\YallaPharm.Domain.csproj", "{C79DE3C1-F4A6-443B-8DAC-361A6599F20F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YallaPharm.Application", "YallaPharm.Application\YallaPharm.Application.csproj", "{56E30D86-6B6B-4250-B7E2-AE7239856911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YallaPharm.Infrastructure", "YallaPharm.Infrastructure\YallaPharm.Infrastructure.csproj", "{3C59FE63-23FE-4B7B-B10A-1B381BAE297C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YallaPharm.API", "YallaPharm.API\YallaPharm.API.csproj", "{C8451692-4BAE-4F45-B810-1135356302F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C79DE3C1-F4A6-443B-8DAC-361A6599F20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C79DE3C1-F4A6-443B-8DAC-361A6599F20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C79DE3C1-F4A6-443B-8DAC-361A6599F20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C79DE3C1-F4A6-443B-8DAC-361A6599F20F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56E30D86-6B6B-4250-B7E2-AE7239856911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E30D86-6B6B-4250-B7E2-AE7239856911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E30D86-6B6B-4250-B7E2-AE7239856911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E30D86-6B6B-4250-B7E2-AE7239856911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C59FE63-23FE-4B7B-B10A-1B381BAE297C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C59FE63-23FE-4B7B-B10A-1B381BAE297C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C59FE63-23FE-4B7B-B10A-1B381BAE297C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C59FE63-23FE-4B7B-B10A-1B381BAE297C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8451692-4BAE-4F45-B810-1135356302F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8451692-4BAE-4F45-B810-1135356302F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8451692-4BAE-4F45-B810-1135356302F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8451692-4BAE-4F45-B810-1135356302F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "6lZ76VzBY4l6Y7AaqahnGqHKWw2putp/IagwwxJsbrU=",
+  "Source": "YallaPharm.API",
+  "BasePath": "_content/YallaPharm.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "YallaPharm.API\\wwwroot",
+      "Source": "YallaPharm.API",
+      "ContentRoot": "C:\\Users\\Mardin it\\Desktop\\yalla.pharm.crm\\src\\YallaPharm.API\\wwwroot\\",
+      "BasePath": "_content/YallaPharm.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Mardin it\\Desktop\\yalla.pharm.crm\\src\\YallaPharm.API\\wwwroot\\images\\products\\f405cdc4-54ce-446f-b7ea-4387a89cb2ef_57ef38d4-45fd-4464-9229-0be1b4f90656.jpg",
+      "SourceId": "YallaPharm.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mardin it\\Desktop\\yalla.pharm.crm\\src\\YallaPharm.API\\wwwroot\\",
+      "BasePath": "_content/YallaPharm.API",
+      "RelativePath": "images/products/f405cdc4-54ce-446f-b7ea-4387a89cb2ef_57ef38d4-45fd-4464-9229-0be1b4f90656.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\f405cdc4-54ce-446f-b7ea-4387a89cb2ef_57ef38d4-45fd-4464-9229-0be1b4f90656.jpg"
+    }
+  ]
+}
